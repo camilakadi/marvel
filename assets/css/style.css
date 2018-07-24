@@ -1,0 +1,21 @@
+main {
+	position: relative;
+}
+
+.logo img {
+	max-width: 200px;
+}
+
+.form-basic {
+	position: relative;
+}
+
+.btn-canto {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+.boxes-marvel {
+	min-height: 400px;
+}
